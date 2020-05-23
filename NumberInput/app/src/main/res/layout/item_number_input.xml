@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatEditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:background="@drawable/select_input_number"
+    android:cursorVisible="false"
+    android:layout_width="35dp"
+    android:layout_height="35dp">
+
+</androidx.appcompat.widget.AppCompatEditText>
